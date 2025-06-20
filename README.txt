@@ -1,16 +1,17 @@
-Phantom by HTML5 UP
- | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license 
+# Pocono Golf Carts
+
+https://poconogolfcarts.com 
 
 (* = not included)
 
- | @ajlkn
+
 
 
 Credits:
 
-	Demo Images:
-		Unsplash 
+	Images:
+		Unsplash
+		TIGON Golf Carts
 
 	Icons:
 		Font Awesome 
